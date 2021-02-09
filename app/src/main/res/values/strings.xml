@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DataBaseAPP</string>
+    <string name="tittle_app">INVENTARIO</string>
+
+    <string name="edtxt_code">Código de producto</string>
+    <string name="edtxt_description">Descripcion del producto</string>
+    <string name="edtxt_price">Precio del producto</string>
+
+    <string name="btn_registry">Registrar producto</string>
+    <string name="btn_search">Buscar producto</string>
+    <string name="btn_modify">Modificar producto</string>
+    <string name="btn_delete">Eliminar del producto</string>
+
+
+
+
+
+</resources>
